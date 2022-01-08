@@ -7,7 +7,7 @@
 - Get bot token
 - Get Coin API in https://www.coingecko.com/
 - Edit .env
-- Insert Coin API in COIN_ID_`<code>&ast;</code>`*currency_name*`<code>&ast;</code>`=[]
+- Insert Coin API in COIN_ID_<code>&ast;</code>*currency_name*<code>&ast;</code>=[]
 - Insert Bot token in *currency_name*_TOKEN=[]
 - Edit index.js
 - Add new Client bot
