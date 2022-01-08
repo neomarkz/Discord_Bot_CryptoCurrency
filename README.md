@@ -1,6 +1,6 @@
 # Discord Bot CryptoCurrency / บอทแสดงค่าเงินพร้อมเปอร์เซ็นขึ้นลงในดิสคอร์ด
 
-![WhiteTail](Screenshot 2022-01-08 105701.png)
+!(Screenshot 2022-01-08 105701.png)
 
 ## Installation
 - Creat bot discord
