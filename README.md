@@ -1,4 +1,4 @@
-# Discord Bot CryptoCurrency /br บอทแสดงค่าเงินพร้อมเปอร์เซ็นขึ้นลงในดิสคอร์ด
+# Discord Bot CryptoCurrency <br/> บอทแสดงค่าเงินพร้อมเปอร์เซ็นขึ้นลงในดิสคอร์ด
 
 ![discord_bot](Screenshot_105701.png)
 
