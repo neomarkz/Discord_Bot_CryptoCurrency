@@ -12,8 +12,8 @@
 - Edit file index.js
 - Add new Client bot
 - Copy section // API for price *currency_name* and paste in async function getPrices()
-- .......................
--
+- .......................ขี้เกียจ เดี๋ยวมาต่อ
+- 
 - Enjoy!
 
 ## What we use?
